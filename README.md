@@ -10,7 +10,7 @@ Please note that the course material has since been updated, and these assignmen
 
 If you are currently enrolled in the program, I encourage you to complete the assignments independently to maximize your learning experience.
 
-# Note
+## Note
 The datasets required to run this code are not included in the repository due to copyright restrictions. Please refer to the IBM Data Science Professional Program on Coursera to access the original datasets.
 
 ## Features

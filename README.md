@@ -1,7 +1,7 @@
 # Winning the Space Race with Data Science
 
 ## Overview
-This repository contains solutions to assignments from an online course by IBM focused on applying data science techniques to space exploration. It showcases my approach to tackling these tasks and demonstrates problem-solving using data science concepts.
+This repository contains Python scripts developed for the capstone project of the IBM Data Science Professional Program. The project applies data science techniques to analyze and derive insights from data related to the SpaceX booster landing project. It highlights my approach to solving real-world problems using methodologies such as data wrangling, exploratory data analysis, visualization, statistical analysis, and machine learning.
 
 ## Disclaimer
 This repository contains my solutions to assignments from the IBM Data Science Professional Program, which I completed on Coursera. Publicly sharing these files was part of the course requirements for the final assignment, and they are included here in compliance with the course guidelines at the time of completion.

@@ -1,7 +1,7 @@
 # Winning the Space Race with Data Science
 
 ## Overview
-This repository contains solutions to assignments from an IBM commercial online course focused on applying data science techniques to space exploration. It showcases my approach to tackling these tasks and demonstrates problem-solving using data science concepts.
+This repository contains solutions to assignments from an online course by IBM focused on applying data science techniques to space exploration. It showcases my approach to tackling these tasks and demonstrates problem-solving using data science concepts.
 
 ## Disclaimer
 The assignments in this repository were solved as part of the course when I took it. Since the course content evolves over time, the tasks, datasets, or requirements may have been updated by IBM, and these solutions may not reflect the current course structure or expectations. Use this repository as a reference for learning and inspiration, but ensure you consult the most up-to-date course materials if you're currently enrolled.

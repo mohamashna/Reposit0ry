@@ -11,8 +11,11 @@ Please note that the course material has since been updated, and these assignmen
 If you are currently enrolled in the program, I encourage you to complete the assignments independently to maximize your learning experience.
 
 ## Features
-- **Data Science Applications in Space Exploration**: Analytical techniques applied to simulated space-related challenges.
-- **Practical Problem-Solving**: Demonstrates the use of Python libraries and frameworks for data analysis and visualization.
+- **Data Science Applications in Real-World Projects**: Applied data science methodologies to analyze and study challenges related to the SpaceX rocket booster landing project.
+- **Web Scraping and Data Wrangling**: Collected and transformed raw data from web sources and structured datasets, preparing them for analysis.
+- **Exploratory Data Analysis (EDA)**: Used visualization and statistical techniques to uncover insights and patterns in the data.
+- **Machine Learning Models**: Developed and evaluated predictive models to determine the likelihood of successful booster landings.
+- **Visualization and Communication**: Created compelling visualizations and reports to communicate findings effectively.
 
 ## Technologies Used
 - **Programming Language**: Python
@@ -24,9 +27,8 @@ The repository serves as a learning archive and showcases my skill development d
 ## Contributions
 As this repository reflects past coursework, contributions are not actively sought. However, feedback and discussions are always welcome!
 
-## Note
-The datasets required to run this code are not included in the repository due to copyright restrictions. Please refer to the IBM Data Science Professional Program on Coursera to access the original datasets.
-
 ## License
-The code in this repository is licensed under the [MIT License](LICENSE). Note that datasets and assignment descriptions are included in accordance with the IBM Data Science Professional Program's guidelines and may be subject to different terms of use.
+The code in this repository is licensed under the [MIT License](LICENSE). 
+
+- **Note** that data and assignment descriptions are included in accordance with the IBM Data Science Professional Program's guidelines and may be subject to different terms of use. The original datasets required to run this code are not included in the repository due to copyright restrictions. Please refer to the IBM Data Science Professional Program on Coursera to access the original datasets.
 

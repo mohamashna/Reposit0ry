@@ -4,7 +4,14 @@
 This repository contains solutions to assignments from an online course by IBM focused on applying data science techniques to space exploration. It showcases my approach to tackling these tasks and demonstrates problem-solving using data science concepts.
 
 ## Disclaimer
-The assignments in this repository were solved as part of the course when I took it. Since the course content evolves over time, the tasks, datasets, or requirements may have been updated by IBM, and these solutions may not reflect the current course structure or expectations. Use this repository as a reference for learning and inspiration, but ensure you consult the most up-to-date course materials if you're currently enrolled.
+This repository contains my solutions to assignments from the IBM Data Science Professional Program, which I completed on Coursera. Publicly sharing these files was part of the course requirements for the final assignment, and they are included here in compliance with the course guidelines at the time of completion.
+
+Please note that the course material has since been updated, and these assignments may no longer reflect the current content of the program. The purpose of this repository is to showcase my work and the problem-solving skills I developed by completing the capstone project.
+
+If you are currently enrolled in the program, I encourage you to complete the assignments independently to maximize your learning experience.
+
+# Note
+The datasets required to run this code are not included in the repository due to copyright restrictions. Please refer to the IBM Data Science Professional Program on Coursera to access the original datasets.
 
 ## Features
 - **Data Science Applications in Space Exploration**: Analytical techniques applied to simulated space-related challenges.
@@ -21,4 +28,5 @@ The repository serves as a learning archive and showcases my skill development d
 As this repository reflects past coursework, contributions are not actively sought. However, feedback and discussions are always welcome!
 
 ## License
-[MIT License](LICENSE)
+The code in this repository is licensed under the [MIT License](LICENSE). Note that datasets and assignment descriptions are included in accordance with the IBM Data Science Professional Program's guidelines and may be subject to different terms of use.
+
